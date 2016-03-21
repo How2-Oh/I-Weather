@@ -2,6 +2,8 @@
 
 Keep your "eye" on the weather. There are few areas in everyday life that suffer from data overload quite like the weather. All you want to know is, "what's it like outside right now?" Instead of a nice simple answer, you are deluged with more data points that you can sling a psychrometer at: dew points, inches of mercury (mercury!!), humidity, wind speed, and, of course, temperature. My kids don't want to know any of that "techie stuff," they just want to know is it "nice, hot, or cold" outside...right now.
 
+<img src=https://cloud.githubusercontent.com/assets/16638894/13928000/fe0d1c22-ef61-11e5-9961-5e41cd3fcae9.JPG>
+
 Today with the SparkFun Electronics RedStick and a couple of discrete parts, you can answer that simple weather question with "I, Weather."
 
 Securely installed inside a beautifully designed 3D-printed custom case (files available on Thingiverse), "I, Weather" provides you with a clear, easy-to-understand weather synopsis. Optimized Arduino code (files available on GitHub) featuring a WatchDog timer enables "I, Weather" to sip just enough juice from its dual AAA battery pack to keep your weather fix going and going.
